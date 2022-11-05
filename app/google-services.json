@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967120594482",
+    "project_id": "otp-app-40635",
+    "storage_bucket": "otp-app-40635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967120594482:android:e73914f6efb0519ec4fe2b",
+        "android_client_info": {
+          "package_name": "p4n.in.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967120594482-qbegi745c5n3mbbcvascpttfcmi4rcri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHNfdnQgAUOFF-wxTqsMXpO4g2lLlHbgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967120594482-qbegi745c5n3mbbcvascpttfcmi4rcri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
